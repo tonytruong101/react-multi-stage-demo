@@ -1,3 +1,13 @@
+# Demo Project
+
+Source code to showcase what a multi build docker build approach is. 
+
+[Reduce/Optimize Docker Images](https://kaizendev.medium.com/devops-docker-series-reduce-optimize-docker-images-multi-stage-builds-598eda895dd5)
+
+Simply `git clone` the repo then do a `docker-compose up -d` to visit your application visit `localhost:3000` 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
